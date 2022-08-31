@@ -25,7 +25,7 @@ So practising more in this area by using the module leassons and also taking tim
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Campaigns launched in May were most successful.
-2. Campaigns launched in Jan, Hylu and October had the highest failures.
+2. Campaigns launched in Jan, July and October had the highest failures.
 
 - What can you conclude about the Outcomes based on Goals?
 The most successful campaigns had goal ranges of 5000-9999 and 15000-19999, with goal range of 1000-4999 being almost as successful as the other 2 goal ranges. Also Goals having less than 1000 were the least successful.
